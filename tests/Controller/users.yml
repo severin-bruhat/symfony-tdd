@@ -1,0 +1,9 @@
+App\Entity\User:
+  user_user:
+    email: john\@doe.com
+    roles: []
+    password: \$2y\$12\$mry.ldjC4ffSOq8ihPxha.oSAYXVOKElxWKwEcHXewjaeWXeWXfnq
+  user_admin:
+    email: admin\@doe.com
+    roles: ["ROLE_ADMIN"]
+    password: \$2y\$12\$mry.ldjC4ffSOq8ihPxha.oSAYXVOKElxWKwEcHXewjaeWXeWXfnq
